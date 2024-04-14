@@ -1,0 +1,21 @@
+.dflex {
+  text-align: center;
+}
+.pb {
+  font-size: 20px;
+  margin: 0px;
+}
+button {
+  display: inline-block;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 58px;
+  padding: 20px 25px;
+}
+h1 {
+  font-size: 140px;
+  margin: 0px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}

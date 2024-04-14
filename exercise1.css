@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+  background-color: rgb(18, 24, 36);
+  color: rgb(152, 155, 162);
+}
+
+.flex {
+  margin-top: 100px;
+  display: flex;
+}
+.picture {
+  margin: 0%;
+  height: 100%;
+  text-align: center;
+  width: 100%;
+}
+.w50 {
+  width: 50%;
+}
+.text {
+  text-align: center;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+h1 {
+  font-size: 1000%;
+  margin: 0%;
+}
